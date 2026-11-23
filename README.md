@@ -1,5 +1,5 @@
 # git-practical--26L-3020-
-Lab  Parcaticals
+Lab  Parcticals
 <br>
 Abdul Nafey Baig
 <br>
