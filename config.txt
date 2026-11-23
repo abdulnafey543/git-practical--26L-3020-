@@ -1,3 +1,1 @@
-app_title=My Project
-version=1.0
-author=Abdul Nafey
+app_title=Styled Application
